@@ -14,3 +14,5 @@ I use this blog as a place to talk about all kinds of things that interest me, s
 * Videogames
 * Film
 * Men's clothing
+* US History
+* Law/Civcs/Politics
